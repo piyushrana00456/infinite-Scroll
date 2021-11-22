@@ -1,0 +1,13 @@
+#container {
+  /* border: 1px solid red; */
+  width: 40%;
+  margin: auto;
+}
+#wrap {
+  border: 5px solid red;
+  width: 80%;
+  margin: auto;
+  height: 400px;
+  overflow-y: scroll;
+  text-align: center;
+}
